@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "713829115839",
+    "firebase_url": "https://lychat-xx.firebaseio.com",
+    "project_id": "lychat-xx",
+    "storage_bucket": "lychat-xx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713829115839:android:89df590af8ebdda7",
+        "android_client_info": {
+          "package_name": "com.xfastgames.lychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713829115839-qdpjhrbe0gfeqcegcs3fr5udercs2er1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xfastgames.lychat",
+            "certificate_hash": "4cdb0af60390eed17a81b1a89981b2db824bacca"
+          }
+        },
+        {
+          "client_id": "713829115839-k1c45jqcvvq5s3hd907sglfaa4pe7qe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRekmDDuSoaDIdqVnGCbbT7Q3hUNYkfCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713829115839-k1c45jqcvvq5s3hd907sglfaa4pe7qe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
